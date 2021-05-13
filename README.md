@@ -17,5 +17,6 @@ We need to reduce the total loss in order for the transfering the style from one
 
 For calculating the gram matrix you could see this video :- <https://www.youtube.com/watch?v=DEK-W5cxG-g>
 
+And yeah, do read the official paper on this :- <https://arxiv.org/pdf/1508.06576.pdf>
 
 ![](generated.png)
